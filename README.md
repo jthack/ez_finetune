@@ -1,6 +1,8 @@
 # ez_finetune
 
 ## Why It's Useful
+Imagine you have a folder full of blog posts and you wanted to fine tune a model to write like you. You'd have to write example prompts that correlate to each blog post and then reformat everything. This does both of those for you.
+
 `ez_finetune` is a Python application designed to simplify the process of creating fine-tuning training data for AI language models. It's specific for OpenAI's spec and useful for those looking to custom-train models like GPT-4 on specific domains or styles without manually crafting queries for each piece of training content.
 
 ## What the Script Does
